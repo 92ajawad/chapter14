@@ -1,29 +1,22 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
-
-    
-    <head>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="JavaJam Coffe House offers specialty coffee and tea, bagles, muffins, organic snacks, open mic nights, live music, and much more...">
-        <link rel="stylesheet" type="text/css" href="css/javajam.css">
-        <title>JavaJam Coffee House Services</title>
-        <meta charset="utf-8">
-        <!-- [if lt IE 9]>
-    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-    <! [endif] -->
-    </head>
-    <body>
-        <div id="wrapper">
+<head>
+    <title>JavaJam Coffee House Menu</title>
+    <link rel="stylesheet" href="javajam.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <div id="wrapper">
         <header>
-           <h1>JavaJam Coffee House</h1>
+            <h1>JavaJam Coffee House</h1>
         </header>
         <nav>
-             <ul>
+            <ul>
                 <li><a href="index.html">Home</a></li>
                 <li><a href="menu.html">Menu</a></li>
                 <li><a href="music.html">Music</a></li>
                 <li><a href="jobs.html">Jobs</a></li>
-                 <li><a href="gear.html">Gear</a></li>
             </ul>
         </nav>
         <main>
@@ -34,36 +27,25 @@
                     <th>Price</th>
                 </tr>
                 <tr>
-                    <td>Just Java</td>
-                    <td>Regular house blend, decaffeinated coffee, or flavor of the day</td>
+                    <th>Just Java</th>
+                    <td>Regular house blend, decaffinated coffee, or flavor of the day.</td>
                     <td>Endless Cup $2.00</td>
                 </tr>
                 <tr>
-                    <td>Cafe au Lait</td>
-                    <td>House Blended coffee infused into a smooth, steamed milk.</td>
+                    <th>Cafe Au Lait</th>
+                    <td>House blended coffee infused into a smooth, steamed milk.</td>
                     <td>Single $2.00<br>Double $3.00</td>
                 </tr>
                 <tr>
-                    <td>Iced Cappuccino</td>
-                    <td>Sweetened espresso blended with icy-cold milk and served in a chilled glass.</td>
+                    <th>Iced Cappucino</th>
+                    <td>Sweetened espresso blended with icy-cold milk and served in chilled glass.</td>
                     <td>Single $4.75<br>Double $5.75</td>
                 </tr>
             </table>
-        
         </main>
-        
-        
         <footer>
-            
-        
-        Copyright &copy; 2020 JavaJam Coffee House <br> <a href
-        
-        
-        
+            Copyright &copy; 2020 JavaJam Coffee House<br>
         </footer>
-        
-        </div>
-    </body>
-
-
+    </div>
+</body>
 </html>
